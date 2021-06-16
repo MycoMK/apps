@@ -11,4 +11,4 @@ button.addEventListener('click', function(){
   const newColor = `rgb( ${r}, ${g},${b})`;
   document.body.style.backgroundColor = newColor;
   h1.innerText = newColor;
-})
+});
